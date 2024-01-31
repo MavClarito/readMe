@@ -1,11 +1,9 @@
-
-![Uploading 12b23a7752e8a7a4464c1ff5e596237f.gif…]()
-
 ### 👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
 
 🧩 I love solving puzzle games and strategic games that needs analytical skills even though most of it were challenging.
 
 👾 I am interested on how video games were made such as concepts, gameplay, logic, features, and more.
+![Uploading 12b23a7752e8a7a4464c1ff5e596237f.gif…]()
 
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 Skills: Currently Improving C language & Python

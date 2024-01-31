@@ -1,5 +1,6 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/MavClarito/readMe/assets/119854736/732af00b-4c0a-41a6-8644-f8127cbb49a4))](https://rishavchanda.io)
+![Uploading 12b23a7752e8a7a4464c1ff5e596237f.gif…]()
+
 
 ### 👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
 
@@ -7,7 +8,7 @@
 
 👾 I am interested on how video games were made such as concepts, gameplay, logic, features, and more.
 
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 Skills: Currently Improving C language & Python
 
 - 🔭 I’m currently working on this page. 

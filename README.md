@@ -1,7 +1,6 @@
 
 ![Uploading 12b23a7752e8a7a4464c1ff5e596237f.gif…]()
 
-
 ### 👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
 
 🧩 I love solving puzzle games and strategic games that needs analytical skills even though most of it were challenging.

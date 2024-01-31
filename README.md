@@ -9,6 +9,6 @@ Skills: Currently Improving C language & Python
 
 - 🔭 I’m currently working on this page. 
 
-
+https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif
 
 

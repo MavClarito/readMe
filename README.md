@@ -1,5 +1,5 @@
 <img src = "https://cdna.artstation.com/p/assets/images/images/019/404/498/original/smilling-apple-960x540.gif?1563336140" width="1080"/>
-###👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
+##👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
 
 🧩 I love solving puzzle games and strategic games that needs analytical skills even though most of it were challenging.
 

@@ -5,7 +5,7 @@
 
 🧩 I love solving puzzle games and strategic games that needs analytical skills even though most of it were challenging.
 
-👾 I am interested on how video games were made such as concepts, gameplay, logic, features, and more.
+👾 I am interested on how video games were made such as concepts, gameplay, logic, features, and many more. I am also competitive in video games such as Valorant, League of Legends and CSGO.
 
 🖥 Skills: Currently Improving C language & Python
 # 💻 Tech Stack:
